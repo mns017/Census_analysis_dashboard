@@ -9,6 +9,6 @@ The India Census 2011 Analysis project aims to visualize and analyze key demogra
 
 ## Key Technologies Used
 
-* [cite_start]**SQL Server**: Used for data cleaning, transformation, and aggregation[cite: 52]. The `SQLQueryCensus.sql` file contains the SQL scripts for these operations.
-* [cite_start]**Microsoft Excel**: The raw census data is provided in Excel format (`Census_Area_Pop_DB.xls` and `Census_Literacy_Sex_Ratio_DB.xls`)[cite: 26, 39].
-* [cite_start]**Power BI Desktop**: Used for creating the interactive dashboard and visualizations (`Census_Analysis_Dashboard_.pbix`)[cite: 1].
+* **SQL Server**: Used for data cleaning, transformation, and aggregation. The `SQLQueryCensus.sql` file contains the SQL scripts for these operations.
+* **Microsoft Excel**: The raw census data is provided in Excel format (`Census_Area_Pop_DB.xls` and `Census_Literacy_Sex_Ratio_DB.xls`).
+* **Power BI Desktop**: Used for creating the interactive dashboard and visualizations (`Census_Analysis_Dashboard_.pbix`).
